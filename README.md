@@ -6,8 +6,8 @@ A mock interview coach I built that gives you feedback on your answers to behavi
 
 You type an answer to a question like *"Tell me about a time you improved a process"*, and Elevate checks it for filler words, whether it follows the STAR format (Situation, Task, Action, Result), and how relevant it is to the question. Then it gives you short, specific feedback. It keeps track of every answer during the session, so you can ask how you're doing overall or which question you struggled with most.
 
-<!-- Add a screenshot of the app here -->
-<!-- ![Elevate screenshot](screenshot.png) -->
+📄 [View the app demo (PDF)](Elevate_project_demo.pdf)
+
 
 ## Why I built this
 
